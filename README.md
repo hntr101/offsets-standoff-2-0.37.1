@@ -1,3 +1,6 @@
-# offsets-standoff-2-0.37.1
-ENG: offsets for standoff 2, used to develop cheats, youre welcome 
+#offsets-standoff-2-0.37.1
+
 RU: оффсеты на стандофф 2, используется обычно для разработки читов, на здоровье:)
+
+Мой тгк куда я буду стараться постить всякие дампы, оффсеты и т.д - https://t.me/AcademicDLL
+Моя личка в тг - https://t.me/hntrforeveryone
